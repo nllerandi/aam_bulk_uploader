@@ -1,0 +1,4 @@
+name,folderId,dataSourceId,traitType,status,description,traitRule,integrationCode
+nick 1,640013,41404,RULE_BASED_TRAIT,ACTIVE,nick 1,"c_pagename == ""nick 1""",nick 1
+nick 2,640013,41404,RULE_BASED_TRAIT,ACTIVE,nick 2,"c_pagename == ""nick 2""",nick 2
+nick 3,640013,41404,RULE_BASED_TRAIT,ACTIVE,nick 3,"c_pagename == ""nick 3""",nick 3

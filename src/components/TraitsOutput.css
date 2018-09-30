@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Helvetica', sans-serif;
+}
+
+.TraitsOutput {
+    text-align: center;
+    padding: 15px;
+    margin: 10px auto;
+}
+
+.container p {
+    padding-top: 10px;
+    color: #666;
+}

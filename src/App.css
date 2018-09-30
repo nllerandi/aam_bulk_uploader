@@ -1,0 +1,15 @@
+/*.App {*/
+    /*background-image: url("images/background.png");*/
+/*}*/
+
+.success {
+    background-color: green;
+}
+
+.error {
+    background-color: red;
+}
+
+input {
+    margin: 10px;
+}
