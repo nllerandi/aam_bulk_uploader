@@ -1,4 +1,4 @@
-#Adobe Audience Manager Bulk Uploader
+# Adobe Audience Manager Bulk Uploader
 
 I started this project to make it quicker and easier to bulk upload traits into Adobe Audience Manager. Feel free to test by using the csv in the repo. You will need to reach out to your Adobe rep however to get you setup with an authorization number. 
 
